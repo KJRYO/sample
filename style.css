@@ -213,7 +213,7 @@ header
     /* [transform: translate(%, %)]よくわからんが、これで真ん中に来る */
     transform: translate(-50%, -50%);
     font-size: 200px;
-    color: rgba(86, 218, 254, 0.51);
+    color: rgba(86, 218, 254, 0.2);
     font-weight: bold;
     display: block;
     width: 100%;
@@ -229,7 +229,7 @@ header
     /* [transform: translate(%, %)]よくわからんが、これで真ん中に来る */
     transform: translate(-50%, -50%);
     font-size: 200px;
-    color: rgba(86, 218, 254, 0.91);
+    color: rgba(255, 9, 9, 0.91);
     transition: color 1s;
     font-weight: bold;
     display: block;
