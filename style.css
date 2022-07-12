@@ -151,7 +151,7 @@ header
     /* [:hover]との変化をつけるため、transparentをあてる */
     border-bottom: 2px solid transparent;
     transition: color .25s;
-    list-style: none;
+    list-style-type:none;
 }
 
 .header-navitem a:hover {
