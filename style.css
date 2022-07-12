@@ -260,6 +260,9 @@ header
     .hero strong {
         font-size: 50px;
     }
+    .hero strong:hover{
+        font-size: 50px;
+    }
 }
 
 /* 
