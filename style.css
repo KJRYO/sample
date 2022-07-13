@@ -265,13 +265,22 @@ header
     }
 }
 
-/* 
-about
- */
-.about-text{
+.greeting-text{
+    font-size: 30px;
+    margin: 50px;
     text-align: center;
 }
 
+/* [768]がタブレットとパソコンとの境界線にすることが無難 */
+@media screen and (max-width:768px) {
+    .greeting-text{
+        font-size: 20px;
+    }
+}
+
+/* 
+about
+ */
 .about {
     margin: 0;
     display: flex;
